@@ -1,1 +1,6 @@
 Welcome to registration page!
+
+Enter username: ________________
+Enter password: ________________
+
+| Register |
