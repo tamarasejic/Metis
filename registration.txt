@@ -3,4 +3,5 @@ Welcome to registration page!
 Enter username: ________________
 Enter password: ________________
 
+|_| I agree to Terms and Conditions
 | Register |
