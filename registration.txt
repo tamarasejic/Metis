@@ -2,6 +2,7 @@ Welcome to registration page!
 
 Enter username: ________________
 Enter password: ________________
+Enter confirm password: _________________
 
 |_| I agree to Terms and Conditions
 |_| I agree to receive emails
